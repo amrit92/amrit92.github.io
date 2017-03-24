@@ -20,7 +20,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post/</loc>
+      <loc>http://amrit.github.io/post_archive/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -44,14 +44,6 @@
     
     
     <url>
-      <loc>http://amrit.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>http://amrit.github.io/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -60,7 +52,31 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post/getting-started/</loc>
+      <loc>http://amrit.github.io/project/3/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://amrit.github.io/project/2/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://amrit.github.io/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://amrit.github.io/post_archive/getting-started/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +84,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post/widgets/</loc>
+      <loc>http://amrit.github.io/post_archive/widgets/</loc>
       <lastmod>2016-04-20T11:00:00+00:00</lastmod>
     </url>
     
@@ -76,7 +92,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post/managing-content/</loc>
+      <loc>http://amrit.github.io/post_archive/managing-content/</loc>
       <lastmod>2016-04-20T11:00:00+00:00</lastmod>
     </url>
     
@@ -84,7 +100,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post/writing-markdown-latex/</loc>
+      <loc>http://amrit.github.io/post_archive/writing-markdown-latex/</loc>
       <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     </url>
     
@@ -100,7 +116,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post/migrate-from-jekyll/</loc>
+      <loc>http://amrit.github.io/post_archive/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
