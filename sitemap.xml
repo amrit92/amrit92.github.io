@@ -4,7 +4,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/tags/academic/</loc>
+      <loc>http://asahoo.me/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/talk/example-talk/</loc>
+      <loc>http://asahoo.me/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post_archive/</loc>
+      <loc>http://asahoo.me/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/publication/</loc>
+      <loc>http://asahoo.me/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -36,15 +36,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/project/example-external-project/</loc>
+      <loc>http://asahoo.me/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +44,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/project/3/</loc>
+      <loc>http://asahoo.me/project/3/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -60,7 +52,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/project/2/</loc>
+      <loc>http://asahoo.me/project/2/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/project/deep-learning/</loc>
+      <loc>http://asahoo.me/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -76,39 +68,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post_archive/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/post_archive/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/post_archive/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/post_archive/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/publication/person-re-identification/</loc>
+      <loc>http://asahoo.me/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -116,15 +76,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/post_archive/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/publication/clothing-search/</loc>
+      <loc>http://asahoo.me/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -132,7 +84,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/publication_types/1/</loc>
+      <loc>http://asahoo.me/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +93,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/publication_types/2/</loc>
+      <loc>http://asahoo.me/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -150,7 +102,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/</loc>
+      <loc>http://asahoo.me/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -159,7 +111,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/tags/deep-learning/</loc>
+      <loc>http://asahoo.me/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -168,7 +120,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/tags/demo/</loc>
+      <loc>http://asahoo.me/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -177,25 +129,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://amrit.github.io/project/</loc>
+      <loc>http://asahoo.me/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -204,7 +138,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/publication_types/</loc>
+      <loc>http://asahoo.me/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -212,7 +146,7 @@
     
     
     <url>
-      <loc>http://amrit.github.io/tags/</loc>
+      <loc>http://asahoo.me/tags/</loc>
       <priority>0</priority>
     </url>
     
