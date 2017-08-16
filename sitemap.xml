@@ -44,14 +44,6 @@
     
     
     <url>
-      <loc>http://asahoo.me/project/3/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>http://asahoo.me/project/2/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -60,7 +52,23 @@
     
     
     <url>
+      <loc>http://asahoo.me/project/3/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://asahoo.me/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://asahoo.me/project/4/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -111,6 +119,14 @@
     
     
     <url>
+      <loc>http://asahoo.me/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://asahoo.me/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -139,6 +155,7 @@
     
     <url>
       <loc>http://asahoo.me/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,6 +164,7 @@
     
     <url>
       <loc>http://asahoo.me/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
