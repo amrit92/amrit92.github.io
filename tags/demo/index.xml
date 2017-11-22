@@ -12,10 +12,20 @@
     
     <item>
       <title>Classification of Handwritten digits</title>
-      <link>http://asahoo.me/project/example-external-project/</link>
+      <link>http://asahoo.me/project/7/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://asahoo.me/project/example-external-project/</guid>
+      <guid>http://asahoo.me/project/7/</guid>
+      <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning AI Bot</title>
+      <link>http://asahoo.me/project/5/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://asahoo.me/project/5/</guid>
       <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
 </description>
     </item>
