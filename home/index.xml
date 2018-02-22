@@ -8,7 +8,47 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://asahoo.me/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://asahoo.me/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://asahoo.me/home/about/</guid>
+      <description>About me Enthusiastic and passionate developer with 2 years of experience in small and fast paced environments. My recent project at Walmart Labs involved building a realtime big data pipeline for ~30 million daily transactions across Walmart stores. I have worked on Backend systems in Ruby on Rails and have experience in Performance Improvement, Building Frameworks and APIs, SSO/Authentication Integrations, Automated Monitoring/Recovery of SaaS Systems.
+I am currently pursuing my Masters in CS at Arizona State University with a focus on Big Data.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://asahoo.me/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://asahoo.me/home/teaching/</guid>
+      <description>Software Engineering Intern at WalmartLabs, Washington DC June 2017 – August 2017 • Developed a real-time, Big Data pipeline for analyzing 40 million daily sales data, gathered from 5500 Walmart Stores across the country. Created Druid database specs, REST API service and visualizations. Used Apache Spark, Spring framework and Druid.
+Senior Software Engineer at GoZoomo (Gozoomo.com), Bengaluru November 2015 - May 2016  Designed and Developed Gozoomo CRM the backbone platform handling all business communications and payment transactions to add multiple Customer worklows.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://asahoo.me/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://asahoo.me/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://asahoo.me/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://asahoo.me/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

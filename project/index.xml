@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://asahoo.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Classification of Handwritten digits</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://asahoo.me/project/7/</guid>
-      <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
-</description>
+      <description>Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://asahoo.me/project/5/</guid>
-      <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
-</description>
+      <description>Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.</description>
     </item>
     
     <item>
@@ -36,8 +36,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://asahoo.me/project/2/</guid>
-      <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
-</description>
+      <description>Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.</description>
     </item>
     
     <item>
@@ -46,8 +45,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://asahoo.me/project/3/</guid>
-      <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
-</description>
+      <description>Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.</description>
     </item>
     
     <item>
@@ -56,8 +54,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://asahoo.me/project/6/</guid>
-      <description>&lt;p&gt;Led a team of 7 to develop a Feature rich Banking Application with security features like OTP, Captcha etc. Introduced Scrum, Agile and Git to the team.&lt;/p&gt;
-</description>
+      <description>Led a team of 7 to develop a Feature rich Banking Application with security features like OTP, Captcha etc. Introduced Scrum, Agile and Git to the team.</description>
     </item>
     
     <item>
@@ -66,8 +63,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://asahoo.me/project/4/</guid>
-      <description>&lt;p&gt;Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.&lt;/p&gt;
-</description>
+      <description>Classification of Handwritten digits and comparison of results using various methods like Artificial Neural Networks and SVM.</description>
     </item>
     
   </channel>
